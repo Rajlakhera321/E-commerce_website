@@ -1,5 +1,5 @@
 import images from "./Assets/img2.png";
-import img1 from "./Assets/img5.png";
+import img1 from "./Assets/shirt.jpeg";
 import img2 from "./Assets/img6.png";
 import img3 from "./Assets/shirt1.webp";
 import img4 from "./Assets/loungewear1.jpg";
@@ -43,19 +43,19 @@ export const slideItems = [
 export const categories = [
     {
         id: 1,
-        img: img3,
+        image: img3,
         title: "SHIRT STYLE!",
         cat: "women"
     },
     {
         id: 2,
-        img: img4,
+        image: img4,
         title: "LOUNGEWEAR LOVE",
         cat: "coat"
     },
     {
         id: 3,
-        img: img5,
+        image: img5,
         title: "LIGHT JACKETS",
         cat: "jeans"
     },
